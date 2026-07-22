@@ -24,8 +24,13 @@ Hệ thống **AI Agent Review & Optimize CV theo Job Description (JD)** chuyên
 │   └── skills/
 │       └── cv-reviewer-agent/
 │           └── SKILL.md         # Skill definition dành cho AI Assistant / Subagent
-├── SYSTEM_PROMPT.md             # Master System Prompt sẵn sàng copy vào Custom GPT / Claude / Gemini
-└── README.md                    # Hướng dẫn sử dụng
+├── templates/
+│   ├── input_template.md        # Mẫu định dạng đầu vào gửi cho AI Agent
+│   └── output_sample.md         # Mẫu kết quả phân tích & review chuẩn
+├── examples/
+│   └── sample_cv_jd.md          # Ví dụ bộ dữ liệu CV và JD mẫu để chạy thử
+├── SYSTEM_PROMPT.md             # Master System Prompt dành cho Custom GPT / Claude / Gemini
+└── README.md                    # Hướng dẫn sử dụng và giới thiệu dự án
 ```
 
 ---

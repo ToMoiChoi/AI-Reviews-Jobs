@@ -17,6 +17,20 @@ Hệ thống **AI Agent Review & Optimize CV theo Job Description (JD)** chuyên
 
 ---
 
+## Khả năng ứng dụng đa ngành nghề
+
+Hệ thống AI Agent này hoàn toàn **phù hợp và hoạt động hiệu quả cho mọi ngành nghề**, bởi vì nguyên lý cốt lõi của tuyển dụng (sự tương thích giữa CV và JD) là không thay đổi giữa các lĩnh vực.
+
+Hệ thống tự động điều chỉnh thuật ngữ, công cụ và chỉ số đo lường theo từng ngành:
+
+- **Công nghệ / IT / Data:** Tối ưu các chỉ số Uptime, xử lý dữ liệu, tối ưu hóa code, các công cụ Python, SQL, Cloud, Docker,...
+- **Marketing & Communication:** Tối ưu chỉ số ROAS, CTR, Conversion Rate, Lead, các công cụ Facebook Ads, Google Ads, SEO, Canva,...
+- **Sales & Business Development:** Tối ưu chỉ số doanh số, tỷ lệ chốt deal, số lượng khách hàng mới, quy mô hợp đồng, CRM (Salesforce, HubSpot),...
+- **Tài chính - Kế toán:** Tối ưu quy mô ngân sách quản lý, tỷ lệ giảm chi phí vận hành, báo cáo kiểm toán, các phần mềm SAP, Fast, Excel,...
+- **Nhân sự & Vận hành (HR & Operations):** Tối ưu chỉ số tuyển dụng (Time-to-hire), tỷ lệ giữ chân nhân sự, tối ưu quy trình chuỗi cung ứng, hệ thống ERP, WMS,...
+
+---
+
 ## Cấu trúc thư mục
 
 ```text

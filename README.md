@@ -2,7 +2,7 @@
 
 Hệ thống **AI Agent Review & Optimize CV theo Job Description (JD)** chuyên nghiệp dành cho ứng viên.
 
-## 🚀 Các tính năng chính (Skills)
+## Các tính năng chính (Skills)
 
 1. **Recruiter 10-Second Skim (Đánh giá lướt 10s):**
    - Đóng vai Nhà tuyển dụng thực tế, khắt khe, đánh giá ấn tượng đầu tiên, điểm mạnh, nghi ngờ lớn nhất, điểm trừ nhanh nhất và đưa ra quyết định mời phỏng vấn hay không.
@@ -17,7 +17,7 @@ Hệ thống **AI Agent Review & Optimize CV theo Job Description (JD)** chuyên
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```text
 ├── .agents/
@@ -30,7 +30,7 @@ Hệ thống **AI Agent Review & Optimize CV theo Job Description (JD)** chuyên
 
 ---
 
-## 🛠️ Hướng dẫn sử dụng
+## Hướng dẫn sử dụng
 
 ### Cách 1: Sử dụng trực tiếp trong cuộc trò chuyện này
 Gửi cho AI thông tin theo mẫu:

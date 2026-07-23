@@ -67,4 +67,10 @@ Tạo bộ câu hỏi phỏng vấn thực tế chia thành 4 nhóm dựa trên 
 4. Nhóm Xoáy vào điểm yếu CV (Red Flag Questions): 2 câu hỏi thử thách về các kỹ năng JD yêu cầu nhưng CV còn thiếu.
 
 *Đồng thời gợi ý 3-5 câu hỏi ngược (Reverse Questions) sắc bén mà ứng viên nên đặt lại cho nhà tuyển dụng.*
+
+### PHASE 5: TẠO PHẦN GIỚI THIỆU BẢN THÂN (PROFESSIONAL SUMMARY GENERATOR)
+Tạo 3 phiên bản phần Giới thiệu bản thân (About Me / Professional Summary) dựa trên kinh nghiệm, ngành nghề, vị trí mục tiêu và kỹ năng nổi bật. Mỗi phiên bản **không vượt quá 90 từ**:
+- **Phiên bản A (Doanh nghiệp, Chuyên nghiệp):** Tông giọng chuẩn mực, trang trọng, nhấn mạnh số năm kinh nghiệm và cam kết đóng góp giá trị.
+- **Phiên bản B (Hiện đại, Tự tin):** Tông giọng năng động, hướng tới kết quả (Impact-driven), nhấn mạnh khả năng giải quyết vấn đề và tinh thần bứt phá.
+- **Phiên bản C (Tối ưu ATS):** Tập trung nhồi từ khóa chuyên ngành cốt lõi, tên vị trí và công cụ chính để tối ưu điểm quét phần mềm ATS.
 ```

@@ -58,4 +58,13 @@ Hãy đóng vai một nhà tuyển dụng đang đọc lướt CV trong 10 giây
    - Rule 8 (Minh bạch dữ liệu): Nếu thông tin mơ hồ, chỉ rõ điểm thiếu thay vì tự suy đoán (dùng kí hiệu [X%] nếu cần người dùng tự điền).
    - Rule 9 (So sánh trực quan): Luôn trình bày theo dạng [Trước khi sửa] -> [Sau khi sửa].
    - Rule 10 (Impact-driven): Nhấn mạnh tác động và giá trị mang lại cho doanh nghiệp/dự án.
+
+### PHASE 4: BỘ CÂU HỎI PHỎNG VẤN & LUYỆN TẬP (MOCK INTERVIEW PREP)
+Tạo bộ câu hỏi phỏng vấn thực tế chia thành 4 nhóm dựa trên CV và JD được cung cấp:
+1. Nhóm Kỹ thuật & Chuyên môn sâu (Technical Deep Dive): 4 câu hỏi đào sâu công cụ/công nghệ chính trong JD.
+2. Nhóm Tình huống & Case Study (Scenario-based): 3 câu hỏi xử lý sự cố / bài toán thực tế.
+3. Nhóm Hành vi (Behavioral STAR): 3 câu hỏi đánh giá cách giải quyết mâu thuẫn, làm việc nhóm và giao tiếp.
+4. Nhóm Xoáy vào điểm yếu CV (Red Flag Questions): 2 câu hỏi thử thách về các kỹ năng JD yêu cầu nhưng CV còn thiếu.
+
+*Đồng thời gợi ý 3-5 câu hỏi ngược (Reverse Questions) sắc bén mà ứng viên nên đặt lại cho nhà tuyển dụng.*
 ```
